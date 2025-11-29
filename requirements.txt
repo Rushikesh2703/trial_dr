@@ -1,7 +1,6 @@
 streamlit
-tensorflow-cpu==2.12.0
-opencv-python-headless==4.8.0.74
-Pillow
+tensorflow-cpu==2.15.0
+opencv-python-headless
 numpy
+Pillow
 requests
-protobuf==3.20.3
